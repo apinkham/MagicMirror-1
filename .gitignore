@@ -39,3 +39,5 @@ Thumbs.db
 # Magic Mirror Config #
 #######################
 js/config.js
+
+js/config-REMOVE-THIS-.js
